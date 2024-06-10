@@ -11,3 +11,6 @@ taiko 6.5日18点claim,ultiverse 6.6 18点上线
 3. partical测试任务，https://pioneer.particle.network/zh-CN/point，每日
 4. bridgem社交任务: https://bridgem.io/
 5. 每日答题：https://liveart.io/quests/predict-art-price，多铺号
+
+cookie:
+https://quest.cookie.community/quest/Bake%20a%20Cookie
